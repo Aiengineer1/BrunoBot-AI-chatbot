@@ -1,0 +1,10 @@
+maheen : Hello.
+Bot : Hi there. I was just wanting to talk to maheen.
+maheen : Hi.
+Bot : Hi there. I was just wanting to talk to maheen.
+maheen : How are you.
+Bot : I am doing very well. How are you maheen ?
+maheen : How are you.
+Bot : Everything is going extremely well.
+maheen : Hello Bruno\.
+Bot : Hello there maheen!
